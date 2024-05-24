@@ -1,0 +1,430 @@
+fileFormatVersion: 2
+guid: 1217ad22522e13b419aa628abb651b43
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WoonSa - Cloud_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 519
+        width: 111
+        height: 173
+      alignment: 9
+      pivot: {x: 0.49, y: 0.29}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c5e685909e06ae4aa8010a4ce049b40
+      internalID: -442591475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoonSa - Cloud_1
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 519
+        width: 111
+        height: 173
+      alignment: 9
+      pivot: {x: 0.49, y: 0.29}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ae01ec39a1fd64c80097e93499ef17
+      internalID: -720251881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoonSa - Cloud_2
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 519
+        width: 111
+        height: 173
+      alignment: 9
+      pivot: {x: 0.49, y: 0.29}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f40ffdcdd6dd17844b430f81a7ea65e3
+      internalID: 1808043328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoonSa - Cloud_3
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 519
+        width: 111
+        height: 173
+      alignment: 9
+      pivot: {x: 0.49, y: 0.29}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 649c90e61edb78b4ab52b3aa9001bd50
+      internalID: 827463244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoonSa - Cloud_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 346
+        width: 111
+        height: 173
+      alignment: 9
+      pivot: {x: 0.49, y: 0.29}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd97146b228bf6b43afaef1abb29791e
+      internalID: 1771860522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoonSa - Cloud_5
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 346
+        width: 111
+        height: 173
+      alignment: 9
+      pivot: {x: 0.49, y: 0.29}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb4c46c94126be6479f368a3baa64d20
+      internalID: -707556265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoonSa - Cloud_6
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 346
+        width: 111
+        height: 173
+      alignment: 9
+      pivot: {x: 0.49, y: 0.29}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11bf3313ed32d4d47af016b5adca3c46
+      internalID: 1387576410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoonSa - Cloud_7
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 346
+        width: 111
+        height: 173
+      alignment: 9
+      pivot: {x: 0.49, y: 0.29}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9980aedf65dc1174392940063108b978
+      internalID: -1755579257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoonSa - Cloud_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 173
+        width: 111
+        height: 173
+      alignment: 9
+      pivot: {x: 0.49, y: 0.29}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f58836716b41d4fb00799d6ccfd002
+      internalID: -630691721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoonSa - Cloud_9
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 173
+        width: 111
+        height: 173
+      alignment: 9
+      pivot: {x: 0.49, y: 0.29}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd4244332b44b0c46816a67543aeb5c7
+      internalID: -812383141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoonSa - Cloud_10
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 173
+        width: 111
+        height: 173
+      alignment: 9
+      pivot: {x: 0.49, y: 0.29}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1faf0ce9d6761a8418716226c384f563
+      internalID: 1534223201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoonSa - Cloud_11
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 173
+        width: 111
+        height: 173
+      alignment: 9
+      pivot: {x: 0.49, y: 0.29}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8dd54ed0d3c428488d3cf413d4d22ad
+      internalID: 1493305367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoonSa - Cloud_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 111
+        height: 173
+      alignment: 9
+      pivot: {x: 0.49, y: 0.29}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c222784eee72b5f47a20a57cd3bdf1cd
+      internalID: 1990649620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoonSa - Cloud_13
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 0
+        width: 111
+        height: 173
+      alignment: 9
+      pivot: {x: 0.49, y: 0.29}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93aaef6cfc7598548824be7ba7e5ef96
+      internalID: -627018408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      WoonSa - Cloud_3: 827463244
+      WoonSa - Cloud_7: -1755579257
+      WoonSa - Cloud_11: 1493305367
+      WoonSa - Cloud_1: -720251881
+      WoonSa - Cloud_10: 1534223201
+      WoonSa - Cloud_2: 1808043328
+      WoonSa - Cloud_4: 1771860522
+      WoonSa - Cloud_6: 1387576410
+      WoonSa - Cloud_13: -627018408
+      WoonSa - Cloud_9: -812383141
+      WoonSa - Cloud_5: -707556265
+      WoonSa - Cloud_8: -630691721
+      WoonSa - Cloud_0: -442591475
+      WoonSa - Cloud_12: 1990649620
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
